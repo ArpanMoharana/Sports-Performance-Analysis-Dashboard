@@ -18,7 +18,7 @@ Data is stored in **Apache Cassandra** (running via Docker Desktop), enabling sc
 
 | Tool / Technology   | Version        | Purpose                                |
 |---------------------|---------------|----------------------------------------|
-| **Java**            | JDK 23        | JavaFX UI development                  |
+| **Java**            | JDK 23/11     | JavaFX UI development                  |
 | **Java**            | JDK 11        | Apache Cassandra compatibility         |
 | **JavaFX SDK**      | 23.0.2        | UI framework for the application       |
 | **Apache Cassandra**| 4.x (Docker)  | NoSQL database for storing player data |
