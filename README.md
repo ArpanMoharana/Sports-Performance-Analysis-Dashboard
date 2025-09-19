@@ -102,5 +102,16 @@ SELECT * FROM users;
 - The database connection will fail if the Docker container is not started before running the application.
 - You must update the file paths in the run command for your local system.
 
+---
+
+## 📜 License & Credits
+
+- **Source Code**: Licensed under the [MIT License](LICENSE).  
+- **Apache Cassandra**: This project uses [Apache Cassandra](https://cassandra.apache.org/), licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).  
+- **JavaFX**: Licensed under the [GPL v2 with Classpath Exception](https://openjdk.org/legal/gplv2+ce.html).  
+- **Docker**: Licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).  
+
+All third-party tools and libraries are used in compliance with their respective licenses.  
+
 
   
