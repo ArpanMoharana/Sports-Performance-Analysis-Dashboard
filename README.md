@@ -25,6 +25,13 @@ Data is stored in **Apache Cassandra** (running via Docker Desktop), enabling sc
 | **Docker Desktop**  | Latest        | Running Cassandra container            |
 | **IntelliJ IDEA**   | Latest        | Integrated development environment     |
 
+---
+
+## 📂 Project Screenshots
+
+You can view all screenshots in this PDF:  
+[📄 Screenshots of Project](https://github.com/ArpanMoharana/Sports-Performance-Analysis-Dashboard/blob/d9f3a7e1609a0c3661b31e1ed4aa5ad373d636a8/Screenshots%20of%20Projects.pdf)
+
 
 ---
 
